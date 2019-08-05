@@ -1,5 +1,18 @@
-### YamlMime:Tutorial
 title: Administer flows
+labUrl: https://docs.microsoft.com
+challenge:
+  uid: challenge-uid
+  type: quiz
+items:
+- title: step 1
+  durationInMinutes: 1
+  content: >+
+    Set new value!!!
+
+- title: step 2
+  durationInMinutes: 8
+  content: >
+    content for step 2
 metadata:
   title: Administer flows | Microsoft Flow
   description: Learn about using environments and data protection policies to manage data sources and flows.
@@ -12,16 +25,4 @@ metadata:
   ms.topic: get-started-article
   ms.date: 10/04/2017
   ms.author: deonhe
-labUrl: https://docs.microsoft.com
-challenge:
-  uid: challenge-uid
-  type: quiz
-items:
-- title: step 1
-  durationInMinutes: 1
-  content: |
-    content ~~for~~ *step* **1**
-- title: step 2
-  durationInMinutes: 8
-  content: |
-    content for step 2
+

@@ -20,9 +20,9 @@ items:
 - title: step 1
   durationInMinutes: 1
   content: >
-    The Azure Clouteractive shell that you can use to run the steps in this
+    The Azure Cloud Shell is a free interactive shell that you can use to
 
-    article.
+    run the steps in this article.This is the 2nd line.
 - title: step 2
   durationInMinutes: 8
   content: >

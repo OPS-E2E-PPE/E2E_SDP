@@ -19,8 +19,8 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: >
-    Change ADD MORE SOMECONTENT!!!
+  content: >2
+
 - title: step 2
   durationInMinutes: 8
   content: >

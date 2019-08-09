@@ -20,7 +20,9 @@ items:
 - title: step 1
   durationInMinutes: 1
   content: >
-    Change CONTENT!!! Tryiple lines situation:
+    The Azure Cloud Shell is a free interactive shell thuse to run the steps
+
+    in this article.
 - title: step 2
   durationInMinutes: 8
   content: >

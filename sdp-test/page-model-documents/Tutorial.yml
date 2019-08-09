@@ -22,7 +22,7 @@ items:
   content: >
     The Azure Cloud Shell is a free interactive shell that you can use to
 
-    run the steps in this article.This is the 2nd line.
+    run the steps in this article.This is 2nd line\~
 - title: step 2
   durationInMinutes: 8
   content: >

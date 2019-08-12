@@ -20,7 +20,8 @@ items:
 - title: step 1
   durationInMinutes: 1
   content: >
-    Change CONTENT!!! Try to find multiple lines situation:
+    Change CONTENT!!! Try to find multiple lines situation:Add something in
+    the 1st line.
 
     ## Launch Azure Cloud Shell
 
@@ -28,7 +29,7 @@ items:
 
 
 
-    This is the 3rd line. Add some contents in the 3rd line.
+    This is the 3rd line. Add some content in the 3rd line.
 - title: step 2
   durationInMinutes: 8
   content: >

@@ -19,7 +19,3 @@ website. **token content**
 *   Bar
 
 
-ist item.
-*   Bar
-
-

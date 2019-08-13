@@ -13,7 +13,10 @@ website. **token content**
 
 2.  
 3.  Bar
-  - A list item.
+An item.
+
+
+  - An item.
 
   - 
   - Bar
@@ -22,7 +25,8 @@ website. **token content**
 
 ### Test unordered list
 
-  -   - A list item.
+  - <s>A list</s>
+      - An item.
     
       - 
       - Bar
@@ -32,5 +36,8 @@ website. **token content**
 ### Test unordered list
 *   A list item.
 *   Bar
+
+
+   Bar
 
 

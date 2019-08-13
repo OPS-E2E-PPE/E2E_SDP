@@ -24,11 +24,11 @@ items:
 
     ## Launch Azure Cloud Shell
 
-    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
+    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article. Add the 2nd line.
 
 
 
-    This is the 3rd line. Add some content in the 3rd line.
+    This is the 3rd line. Add some content in the 3rd line. Add in line 6.
 - title: step 2
   durationInMinutes: 8
   content: >

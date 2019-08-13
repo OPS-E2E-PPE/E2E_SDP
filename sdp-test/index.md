@@ -3,7 +3,7 @@
 This is branch InlineEdit. For testing Inline edit in docs.microsoft
 website. **token content**
 
-*_test ADD AMONG Italic_*
+*test ADD AMONG Italic*
 
 
 ### 1. Deploying the network

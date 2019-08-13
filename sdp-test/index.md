@@ -1,14 +1,14 @@
 # Welcome to sdp-test! Welcome!
 
 This is branch InlineEdit. For testing Inline edit in docs.microsoft
-website. **token TEST EDIT ITALIC content**
+website. **token content**
 
+*test TEST EDIT ITALIC Italic*
 
-
-*test Italic*
 
 ### 1. Deploying the network
 **some thing with format**
+
 Foo
 
 Bar
@@ -175,7 +175,6 @@ Bar
     </table>
 
 
-1.  Foo
 2.  Bar
 
 ### Test unordered list

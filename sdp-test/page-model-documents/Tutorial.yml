@@ -20,11 +20,11 @@ items:
 - title: step 1
   durationInMinutes: 1
   content: >
-    This is a yaml file. In the markdown block, there are multiple paragraphs.
+    Change CONTENT!!! Try to find multiple lines situation:
 
-    ## Launch Azure Cloud Shell
+    Launch Azure Cloud Shell (This is a &lt;head&gt;) -------------------------------------------------
 
-    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
+    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article. This is the 2nd paragraph.
 
 
 

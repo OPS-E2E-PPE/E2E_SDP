@@ -9,7 +9,26 @@ website. **token content**
 **some thing with format**
 
 ### Test list
-1.  Foo
+<s>Foo</s>
+
+1.    
+2.  <s>Bar</s>
+<s>An item.</s>
+
+  -   
+  - <s>Bar</s>
+  -
+
+
+### <s>Test unordered list</s>
+
+###   
+
+  - <s>An item.</s>
+      -   
+      - <s>Bar</s>
+      -
+
 
 2.  
 3.  Bar

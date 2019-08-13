@@ -9,30 +9,11 @@ website. **token content**
 **some thing with format**
 
 ### Test list
-<s>Foo</s>
-
-1.    
-2.  <s>Bar</s>
-<s>An item.</s>
-
-  -   
-  - <s>Bar</s>
-  -
-
-
-### <s>Test unordered list</s>
-
-###   
-
-  - <s>An item.</s>
-      -   
-      - <s>Bar</s>
-      -
-
+1.  Foo
 
 2.  
 3.  Bar
-  - An item.
+  - A list item.
 
   - 
   - Bar
@@ -41,28 +22,7 @@ website. **token content**
 
 ### Test unordered list
 
-  -   - An item.
-    
-      - 
-      - Bar
-
-
-2.  
-3.  Bar
-An item.
-
-
-  - An item.
-
-  - 
-  - Bar
-
-### 
-
-### Test unordered list
-
-  - <s>A list</s>
-      - An item.
+  -   - A list item.
     
       - 
       - Bar
@@ -72,8 +32,5 @@ An item.
 ### Test unordered list
 *   A list item.
 *   Bar
-
-
-   Bar
 
 

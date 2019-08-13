@@ -20,7 +20,7 @@ items:
 - title: step 1
   durationInMinutes: 1
   content: >
-    Change CONTENT!!! Try to find multiple lines situation:
+    This is a yaml file. In the markdown block, there are multiple paragraphs.
 
     ## Launch Azure Cloud Shell
 

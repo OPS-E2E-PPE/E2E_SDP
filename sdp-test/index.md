@@ -1,12 +1,12 @@
 # Welcome to sdp-test! Welcome!
 
-This is for testing MARKDOWN file ononADD SOMETHING branch InlineEdit.
+This is for testing MARKDOWN file on ADD SOMETHING branch InlineEdit.
 For testing Inline edit in docs.microsoft website. **token content**
 
 *test Italic*
 
 ### 1. Deploying the network
-**Test BOLD ADD SOMTHING format**
+**Test BOLD ADD SOMETHING format**
 
 ### Test list
 1.  Foo

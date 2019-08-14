@@ -9,10 +9,12 @@ website. **token content**
 **some thing with format**
 
 ### Test list
-1.  Foo
+Foo TEST LIST SYNTAX
+
 2.  Bar
 
 ### Test unordered list
 *   A list item.
 *   Bar
+
 

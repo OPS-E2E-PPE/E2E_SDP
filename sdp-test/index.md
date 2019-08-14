@@ -9,7 +9,7 @@ Inline edit in docs.microsoft website. **token content**
 **Test BOLD format**
 
 ### Test list
-Foo ADD SOMTHING IN LIST
+Foo ADD SOMTHING
 2.  Bar
 
 ### Test unordered list

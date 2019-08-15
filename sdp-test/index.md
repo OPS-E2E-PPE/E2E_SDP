@@ -9,12 +9,12 @@ Inline edit in docs.microsoft website.
 **Test BOLD format**
 
 ### Test list
-1.  Foo ADD IN ORDER LIST
+1.  Foo. ADD IN ORDERED LIST.
 2.  Bar
 
 ### Test unordered list
-A list item. ADD IN UNORDERED LIST
-*   Bar
+  - A list item.
+  - Bar. ADD IN UNORDERED LIST
 
 
 

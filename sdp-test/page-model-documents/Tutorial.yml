@@ -20,7 +20,8 @@ items:
 - title: step 1
   durationInMinutes: 1
   content: >
-    This is for testing Yaml file on branch InlineEdit. Try to find multiple lines situation:
+    This is for testing Yaml file on add 1 branch InlineEdit. Try to find
+    multiple lines situation:
 
     ## Launch Azure Cloud Shell
 

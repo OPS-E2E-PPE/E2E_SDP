@@ -20,12 +20,11 @@ items:
 - title: step 1
   durationInMinutes: 1
   content: >
-    This is for testing Yaml file on branch InlineEdit. Try to find multiple lines situation:
+    Change MORE SOMECONTENT\!\!\!
 
     ## Launch Azure Cloud Shell
 
-    The Azure Cloud Shell is a free interactive shell ADD SOMEHTING that you
-    can use to run the steps in this article.
+    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
 
 
 

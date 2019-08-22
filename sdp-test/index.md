@@ -10,10 +10,10 @@ Inline edit in docs.microsoft website.
 
 ### Test list
 1.  Foo TEST LIST2.  Bar
-2.  Bar
-### Test unordered list
+
 ### Test unordered list
 -   Foo of ul.
 -   Bar of ul.
+
 
 

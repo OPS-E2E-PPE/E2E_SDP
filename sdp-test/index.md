@@ -3,11 +3,9 @@
 ADD1 This is for testing MARKDOWN file on branch InlineEdit. For testing
 Inline edit in docs.microsoft website. 
 
+*test ADD2 Italic*
 
-*test Italic*
-
-**Test ADD2 BOLD format**
-
+### 1. Deploying the network
 **Test BOLD format**
 
 ### Test list

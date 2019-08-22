@@ -1,6 +1,6 @@
 # Welcome to sdp-test! Welcome!
 
-VGFGHThis is for testing MARKDOWN file on branch InlineEdit. For testing
+This is for testing MARKDOWN file on branch InlineEdit. For testing
 Inline edit in docs.microsoft website. 
 
 *test Italic*
@@ -9,12 +9,11 @@ Inline edit in docs.microsoft website.
 **Test BOLD format**
 
 ### Test list
-1.  Foo
+1.  Foo TEST LIST2.  Bar
 2.  Bar
-
+### Test unordered list
 ### Test unordered list
 -   Foo of ul.
 -   Bar of ul.
-
 
 

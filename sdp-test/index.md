@@ -3,10 +3,10 @@
 This is for testing MARKDOWN file on branch InlineEdit. For testing
 Inline edit in docs.microsoft website. 
 
-*test Italic*
+*test Italic*ADD 111
 
 ### 1. Deploying the network
-**Test BOLD TEST format**
+**Test BOLD format**
 
 ### Test list
 1.  Foo

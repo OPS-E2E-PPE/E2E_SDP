@@ -1,11 +1,11 @@
 # Welcome to sdp-test! Welcome!
 
 This is for testing MARKDOWN file on branch InlineEdit. For testing
-Inline edit in docs.microsoft website. 
+Inline edit in docs.microsoft website.   
 
-*test Italic*  
+ADD A NEW LINE.
 
-ADD A NEW LINE
+*test Italic*
 
 ### 1. Deploying the network
 **Test BOLD format**

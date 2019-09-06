@@ -19,17 +19,9 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: >
-    This is for testing Yaml file on branch InlineEdit. Try to find multiple lines situation:
-
-    ## Launch Azure Cloud Shell
-
-    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
-
-
-
-    This is the 3rd line. Add content in the 3rd line.
+  content: "This is for testing Yaml file on branch InlineEdit. For testing\n    Inline edit in docs.microsoft website. ADD 111\n\n    Inline edit in docs.microsoft website. \n\n    *test Italic*\n\n"
 - title: step 2
   durationInMinutes: 8
   content: >
     content for step 2
+

@@ -19,7 +19,7 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: "This is for testing Yaml file on branch InlineEdit. For testing\n    Inline edit in docs.microsoft website. ADD 111 \n\nInline edit in docs.microsoft website. \n\n    *test Italic*\n\n### 1. Deploying the network\n    **Test BOLD format**\n"
+  content: "This is for testing Yaml file on branch InlineEdit. For testing\n    Inline edit in docs.microsoft website. ADD 111\n\n    Inline edit in docs.microsoft website. \n\n    *test Italic*\n\n### 1. Deploying the network\n**Test BOLD format**\n"
 - title: step 2
   durationInMinutes: 8
   content: >

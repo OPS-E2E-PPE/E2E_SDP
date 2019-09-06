@@ -19,17 +19,19 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: >
-    This is for testing Yaml file on branch InlineEdit.  
-    Inline edit in docs.microsoft website.  
-    *test Italic*  
+  content: |
+    This is for testing Yaml file on branch InlineEdit. For testing
+    Inline edit in docs.microsoft website. 
 
-    ### 1. Deploying the network  
-    
+    Inline edit in docs.microsoft website. 
+
+    *test Italic*
+
+    ### 1. Deploying the network
     **Test BOLD format**
 
 - title: step 2
   durationInMinutes: 8
-  content: >
+  content: |
     content for step 2
 

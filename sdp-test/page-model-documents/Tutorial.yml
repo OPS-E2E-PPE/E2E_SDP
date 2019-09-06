@@ -19,19 +19,17 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: |
-    This is for testing Yaml file on branch InlineEdit. For testing
-    Inline edit in docs.microsoft website. 
+  content: >
+    This is for testing Yaml file on branch InlineEdit. Try to find multiple lines situation:
 
-    Inline edit in docs.microsoft website. 
+    ## Launch Azure Cloud Shell
 
-    *test Italic*
+    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
 
-    ### 1. Deploying the network
-    **Test BOLD format**
 
+
+    This is the 3rd line. Add content in the 3rd line.
 - title: step 2
   durationInMinutes: 8
-  content: |
+  content: >
     content for step 2
-

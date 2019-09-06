@@ -22,9 +22,9 @@ items:
   content: >
     This is for testing Yaml file on branch InlineEdit.
 
-    ### 1. Deploying the network
+    ### 1. Deploying the network  
     **Test BOLD format**
-    
+
 - title: step 2
   durationInMinutes: 8
   content: >

@@ -19,8 +19,8 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: >
-    This is for testing Yaml file on branch InlineEdit. 
+  content: >-
+    This is for testing Yaml file on branch InlineEdit. ADD in the 1st BLOCK.
 
     ## Launch Azure Cloud Shell
 
@@ -29,3 +29,4 @@ items:
   durationInMinutes: 8
   content: >
     content for step 2
+

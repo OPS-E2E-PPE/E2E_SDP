@@ -2,13 +2,15 @@
 
 This is for testing MARKDOWN file on branch InlineEdit. For testing
 Inline edit in docs.microsoft website. 
+ADD 111
+*test Italic*
+ADD 222
 
-*test Italic* ADD111
-
-### 1. Deploying the network
 **Test BOLD format**
-
-### Test list
+ADD 333
+**Test BOLD format**
+1.  Foo ADD IN LIST
+2.  Bar
 1.  Foo
 2.  Bar
 
@@ -21,5 +23,5 @@ Inline edit in docs.microsoft website.
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-| col 4 is | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
 

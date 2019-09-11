@@ -2,20 +2,20 @@
 
 This is for testing MARKDOWN file on branch InlineEdit. For testing
 Inline edit in docs.microsoft website. 
-ADD 111
-*test Italic*
-ADD 222
 
+*test Italic*
+
+### 1. Deploying the network
 **Test BOLD format**
-ADD 333
-**Test BOLD format**
-1.  Foo ADD IN LIST
-2.  Bar
+
+### Test list
 1.  Foo
 2.  Bar
+3. Test add in list
 
-### Test unordered list
 -   Foo of ul.
+-   Bar of ul.
+-   TEST
 -   Bar of ul.
 
 ### Test table

@@ -11,12 +11,10 @@ Inline edit in docs.microsoft website.
 ### Test list
 1.  Foo
 2.  Bar
-3. Test add in list
 
+### Test unordered list
 -   Foo of ul.
--   Bar of ul.
--   TEST
--   Bar of ul.
+-   Bar of ul. ADD 11111
 
 ### Test table
 | Tables        | Are           | Cool  |

@@ -22,9 +22,11 @@ items:
   content: >-
     This is for testing Yaml file on branch InlineEdit.
 
-    ADD111
+    add111
 
-    ## Launch Azure Cloud Shell
+    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
+
+    add222
 
     The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
 - title: step 2

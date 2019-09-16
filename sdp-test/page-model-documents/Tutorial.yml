@@ -19,13 +19,16 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: >
-    This is for testing Yaml file on branch InlineEdit. 
+  content: >-
+    This is for testing Yaml file on branch InlineEdit.
 
-    ## Launch Azure Cloud Shell
+    ADD1111
+
+    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article. ADD **test Itelics**
 
     The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
 - title: step 2
   durationInMinutes: 8
   content: >
     content for step 2
+

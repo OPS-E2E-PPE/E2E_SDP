@@ -20,6 +20,16 @@ groups:
       title: Windows
     - id: vm
       title: VM
+    - id: vm
+      title: VM
+    - id: vm
+      title: VM
+    - id: vm
+      title: VM
+    - id: vm
+      title: VM
+    - id: vm
+      title: VM
 - id: azure-interface
   title: Shell
   prompt: Choose your shell

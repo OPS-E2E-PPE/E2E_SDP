@@ -1,0 +1,1 @@
+# step4: Set the duplicated words for TOC.  eg: a/b/b/toc.yml

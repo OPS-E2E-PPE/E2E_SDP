@@ -1,6 +1,6 @@
----
-author: luyajun0205
-title: e2etest
----
+# Test Case 201353:
+[SEO Validation][Standard]: Verify no suggestion reported for TOC, Redirection, Resource type and SDP pages in SDP repo
 
-# Welcome to sdp-test!
+## step8: Set the duplicated alt images for different images
+![alt text](./images/pig1.jpg)
+![alt text](./images/pig2.jpg)

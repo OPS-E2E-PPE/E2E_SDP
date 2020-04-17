@@ -4,7 +4,7 @@ inputs:
   name: resource-name
   label: Resource Name
   description: |
-  Resource Name ![alttext](.\images\ping1.jpg)
+    Resource Name ![alttext](.\images\ping1.jpg)
   isRequired: true
 - type: "text"
   name: "resource-group"
@@ -15,7 +15,7 @@ inputs:
   name: "number-instances"
   label: "Number of instances"
   description: |
-  Number of instances. ![alttext](.\images\ping1.jpg)
+    Number of instances. ![alttext](.\images\ping1.jpg)
   isRequired: true
 - type: "checkbox"
   name: "auto-provision"

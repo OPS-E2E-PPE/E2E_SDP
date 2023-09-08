@@ -39,7 +39,8 @@
     "globalMetadata": {
       "breadcrumb_path": "/sdp-test/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "uhfHeaderId": "test"
     },
     "fileMetadata": {},
     "template": [],

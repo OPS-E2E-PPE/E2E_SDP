@@ -1,8 +1,5 @@
-### YamlMime:PowerShellModule1
+### YamlMime:Tutorial
 title: Administer flows
-cmdletGroups: Test
-name: Test
-uid: Test
 metadata:
   title: Test for metadata
   description: Learn about using environments and data protection policies to manage data sources and flows.
